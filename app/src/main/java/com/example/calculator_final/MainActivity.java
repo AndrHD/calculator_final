@@ -73,14 +73,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main2);
 
-        switch (view.getId()){
-            case R.id.btnOne:etNums.setText(binding.getText() + "0");
-            break;
-            case R.id.btnTwo:etNums.setText('2');
-            break;
-            default:
-                break;
+
         }
 
     }
-}
