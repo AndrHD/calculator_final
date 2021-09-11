@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculator_final</string>
+    <string name="icon_calc">icon_calc</string>
+    <string name="icon_calc1">icon_calc1</string>
+    <string name="icon_calc2">icon_calc2</string>
+    <string name="icon_calc3">icon_calc3</string>
+    <string name="icon_calc4">icon_calc4</string>
+    <string name="category_name">category_name</string>
+    <string name="image_button_1">image_button_1</string>
 </resources>
