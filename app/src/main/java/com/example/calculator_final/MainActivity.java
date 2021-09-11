@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main2);
 
 
+
         }
 
     }
